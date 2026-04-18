@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/AlexisNicolasR04/frontend3-week5-activity/compare/v1.0.0...v1.1.0) (2026-04-18)
+
+
+### Features
+
+* update app component ([#2](https://github.com/AlexisNicolasR04/frontend3-week5-activity/issues/2)) ([346671a](https://github.com/AlexisNicolasR04/frontend3-week5-activity/commit/346671ad795873b141737671c6762bb35e04fb90))
+
 # 1.0.0 (2026-04-18)
 
 

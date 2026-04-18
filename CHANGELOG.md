@@ -1,3 +1,10 @@
+# 1.0.0 (2026-04-18)
+
+
+### Features
+
+* add app className ([7de0047](https://github.com/AlexisNicolasR04/frontend3-week5-activity/commit/7de0047681936a4b97fc0e3a665526c06730d571))
+
 # [1.2.0](https://github.com/JosephRangel/frontend3-week5-activity/compare/v1.1.0...v1.2.0) (2026-04-13)
 
 

@@ -6,7 +6,7 @@ import Cart from './pages/Cart';
 
 function App() {
   return (
-    <div>
+    <div className="app">
       {/* El Navbar está FUERA de Routes para que se quede fijo siempre */}
       <Navbar />
 

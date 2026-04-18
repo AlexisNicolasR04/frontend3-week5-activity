@@ -1,3 +1,4 @@
+// TechStore - Semana 5
 import { Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Catalog from './pages/Catalog';
